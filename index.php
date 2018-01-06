@@ -1,3 +1,4 @@
 <?php
-class MySqli{}
+class MySqli
+{}
 ?>
